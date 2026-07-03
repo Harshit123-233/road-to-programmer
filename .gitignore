@@ -1,6 +1,9 @@
 # Ignore trial and error files
 trial_and_error*.py
 
+# Ignore Virtual Environments
+venv/
+
 # Ignore other common temporary files
 __pycache__/
 *.pyc
