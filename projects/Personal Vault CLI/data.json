@@ -1,0 +1,25 @@
+[
+    {
+        "username": "Harshit",
+        "password": "Harshit@3103",
+        "notes": [
+            {
+                "topic": "Python",
+                "content": "I'm learning Python."
+            },
+            {
+                "topic": "Dream",
+                "content": "I want to be a full-stack developer. (just kidding, a super UI saiyan)"
+            },
+            {
+                "topic": "Gaming ID",
+                "content": "yashhello22@gmail.com Harshit@3103"
+            }
+        ]
+    },
+    {
+        "username": "Naruto",
+        "password": "NarutolovesHinata",
+        "notes": []
+    }
+]
