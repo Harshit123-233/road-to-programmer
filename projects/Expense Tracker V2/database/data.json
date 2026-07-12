@@ -1,0 +1,26 @@
+[
+    {
+        "date_and_time": "2026-07-11 18:44:45",
+        "category": "Food",
+        "amount": 1000.0,
+        "description": "I was hungry af"
+    },
+    {
+        "date_and_time": "2026-07-11 19:24:25",
+        "category": "Gaming ID",
+        "amount": 15000.0,
+        "description": "Robux Baby"
+    },
+    {
+        "date_and_time": "2026-07-12 12:14:16",
+        "category": "Pooja",
+        "amount": 1000.0,
+        "description": "Pooja Samagri"
+    },
+    {
+        "date_and_time": "2026-07-12 12:15:03",
+        "category": "Food",
+        "amount": 2400.0,
+        "description": "I bought Monster Energy Drink - 20pcs"
+    }
+]
